@@ -11,6 +11,37 @@ body {
     height: 100%;
 }
 
+a {
+	color:#958585;
+}
+
+a:hover {
+	color:#776A6A;
+}
+
+.btn-primary {
+	background-color:#AA9D9D;
+	border-color:#AA9D9D;
+}
+
+.btn-primary:hover {
+	background-color: #958585;
+	border-color: #958585;
+}
+
+.navbar-fixed-top {
+	background-color: #776A6A;
+	border-color: #776A6A;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #CAC2C2
+}
+
+.navbar-inverse .navbar-brand {
+	color: #CAC2C2
+}
+
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
