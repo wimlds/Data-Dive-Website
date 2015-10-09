@@ -30,8 +30,8 @@ a:hover {
 }
 
 .navbar-fixed-top {
-	background-color: #776A6A;
-	border-color: #776A6A;
+	background-color: #333333;
+	border-color: #333333;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -40,6 +40,14 @@ a:hover {
 
 .navbar-inverse .navbar-brand {
 	color: #CAC2C2
+}
+
+.carousel-indicators .active {
+	background-color: #333333
+}
+
+.carousel-indicators > li {
+	border: 1px solid #333333
 }
 
 body {
