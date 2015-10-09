@@ -12,7 +12,7 @@ body {
 }
 
 a {
-	color:#958585;
+	color:#333333;
 }
 
 a:hover {
@@ -35,11 +35,11 @@ a:hover {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-	color: #CAC2C2
+	color: #333333
 }
 
 .navbar-inverse .navbar-brand {
-	color: #CAC2C2
+	color: #333333
 }
 
 .carousel-indicators .active {
